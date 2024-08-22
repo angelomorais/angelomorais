@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @angelomorais
-- 👀 I’m interested in C#, .Net and WebDev
-- 🌱 I’m currently learning CSharp
 - 💞️ I’m looking to collaborate on II/PCDF
 - 📫 How to reach me: angelomoraisrj@gmail.com
 
